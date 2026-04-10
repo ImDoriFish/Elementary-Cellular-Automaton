@@ -1,11 +1,4 @@
-/*-------------------------------------------
-Program 1: Elementary Cellular Automaton
-	Simulates a one-dimensional world of ON/OFF cells. Each generation updates based
-    on a 3-cell neighboorhood (left, center, right) and a user-defined rule (0-255). 
-    It prints each generation and keeps track of the total active cells.
-Course: CS 211, Spring 2026, UIC
-Author: Khang Bao Le
-------------------------------------------- */
+
 
 
 //Elementary Cellular Automaton
